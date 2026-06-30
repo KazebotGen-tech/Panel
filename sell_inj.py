@@ -15,8 +15,8 @@ from telegram.ext import (
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 OWNER_ID = int(os.environ.get("OWNER_ID"))
 
-INJECTOR_URL = "https://codm-injector.onrender.com"
-SCRIPT_URL = "https://codm-script-b9ez.onrender.com"  
+INJECTOR_URL = "https://panel-9roi.onrender.com"
+SCRIPT_URL = "https://codm-script-wdlw.onrender.com"  
 
 # ======================
 # STATES FOR CONVERSATION
